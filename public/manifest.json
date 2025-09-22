@@ -1,0 +1,27 @@
+{
+  "short_name": "PRHAA",
+  "name": "Punjab Rural Health AI Assistant",
+  "description": "AI-powered telemedicine platform for rural Punjab healthcare",
+  "icons": [
+    {
+      "src": "https://pbs.twimg.com/profile_images/1491700416010395652/G6FSnL-G_400x400.jpg",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "https://pbs.twimg.com/profile_images/1491700416010395652/G6FSnL-G_400x400.jpg",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ],
+  "start_url": ".",
+  "display": "standalone",
+  "theme_color": "#003366",
+  "background_color": "#ffffff",
+  "orientation": "portrait-primary",
+  "categories": ["health", "medical", "utilities"],
+  "lang": "en",
+  "dir": "ltr",
+  "scope": "/",
+  "prefer_related_applications": false
+}
